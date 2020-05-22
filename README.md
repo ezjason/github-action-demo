@@ -32,3 +32,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ### [参考文献](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html) 此文件例子是react ，Vue打包路径需要自己在config 文件路径底下配置
 assetsPublicPath：'/文件项目名/'
+
+### [项目地址](https://ezjason.github.io/github-action-demo/#/)
